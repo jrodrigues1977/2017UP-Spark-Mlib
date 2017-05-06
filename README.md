@@ -14,7 +14,7 @@ Repositorio para atividades da Disciplina Spark Mlib
 * http://spark.apache.org/docs/latest/mllib-clustering.html (Cristiane e Tiyomi)
 * http://spark.apache.org/docs/latest/mllib-frequent-pattern-mining.html Fernando Mello / André Aguiar
 * http://spark.apache.org/docs/latest/mllib-dimensionality-reduction.html Fernando Mello / André Aguiar
-* http://spark.apache.org/docs/latest/mllib-feature-extraction.html
+* http://spark.apache.org/docs/latest/mllib-feature-extraction.html (Lucas)
 * http://spark.apache.org/docs/latest/mllib-evaluation-metrics.html
 * http://spark.apache.org/docs/latest/mllib-optimization.html (Michelle e Camyla)
 
