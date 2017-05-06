@@ -10,7 +10,8 @@ Repositorio para atividades da Disciplina Spark Mlib
 * http://spark.apache.org/docs/latest/ml-collaborative-filtering.html  http://spark.apache.org/docs/latest/ml-tuning.html
 * http://spark.apache.org/docs/latest/mllib-data-types.html http://spark.apache.org/docs/latest/mllib-statistics.html
 * http://spark.apache.org/docs/latest/mllib-linear-methods.html
-* http://spark.apache.org/docs/latest/mllib-clustering.html http://spark.apache.org/docs/latest/mllib-frequent-pattern-mining.html
+* http://spark.apache.org/docs/latest/mllib-clustering.html 
+* http://spark.apache.org/docs/latest/mllib-frequent-pattern-mining.html Fernando Mello / André Aguiar
 * http://spark.apache.org/docs/latest/mllib-dimensionality-reduction.html 
 * http://spark.apache.org/docs/latest/mllib-feature-extraction.html
 * http://spark.apache.org/docs/latest/mllib-evaluation-metrics.html
