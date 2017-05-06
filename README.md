@@ -16,7 +16,7 @@ Repositorio para atividades da Disciplina Spark Mlib
 * http://spark.apache.org/docs/latest/mllib-dimensionality-reduction.html 
 * http://spark.apache.org/docs/latest/mllib-feature-extraction.html
 * http://spark.apache.org/docs/latest/mllib-evaluation-metrics.html
-* http://spark.apache.org/docs/latest/mllib-optimization.html
+* http://spark.apache.org/docs/latest/mllib-optimization.html (Michelle e Camyla)
 
 
 
